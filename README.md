@@ -25,6 +25,8 @@
 Logcat output:
 
     D/com.your.package.name.YourClassName: yourFunctionName. Test log message.
+    
+    D/dev.tim4.loggerdemo.MainActivity: onCreate. Your message.
 
 # License
 

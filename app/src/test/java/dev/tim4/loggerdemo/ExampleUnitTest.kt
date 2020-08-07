@@ -1,4 +1,4 @@
-package dev.tim4.logger
+package dev.tim4.loggerdemo
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

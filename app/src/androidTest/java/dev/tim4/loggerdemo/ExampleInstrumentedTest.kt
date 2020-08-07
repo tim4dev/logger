@@ -1,4 +1,4 @@
-package dev.tim4.logger
+package dev.tim4.loggerdemo
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
